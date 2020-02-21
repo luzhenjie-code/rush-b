@@ -9,7 +9,7 @@
 ##  住址：浙江杭州
 </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % u = 2985529663,2286159164＆fm = 26＆gp = 0.jpg
+      <img src="/zhengjianzhao.jpg" width="100%">      %u=2985529663,2286159164&fm=26&gp=0.jpg
     </td>
   </tr>
 </table>
