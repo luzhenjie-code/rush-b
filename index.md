@@ -7,3 +7,9 @@
 ##  专业：通信工程
 ##  邮箱：1217858053@qq.com
 ##  住址：浙江杭州
+</td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 
+    </td>
+  </tr>
+</table>
